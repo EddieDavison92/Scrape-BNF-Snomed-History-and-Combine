@@ -56,7 +56,7 @@ The script will:
 - Convert the .xlsx files to .csv format using the VBScript.
 - Combine the data from all .csv files into a single DataFrame, ensuring no duplicate rows.
 - Save the combined data to a single .csv file in the `output` directory.
-- Convert the combined .csv file to .xlsx format, ensuring that the `SNOMED Code` column is formatted as text, and set the table style to `LightStyle8`.
+- Convert the combined .csv file to .xlsx format, ensuring that the `SNOMED Code` column is formatted as text.
 
 ## Logging
 
