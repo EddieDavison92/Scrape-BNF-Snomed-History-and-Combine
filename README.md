@@ -32,7 +32,7 @@ This project scrapes BNF Snomed mapping data from the NHS BSA website, converts 
 
     ```sh
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    venv\Scripts\activate
     ```
 
 3. Install the required packages:
