@@ -24,8 +24,7 @@ This project scrapes BNF Snomed mapping data from the NHS BSA website, converts 
 1. Clone the repository:
 
     ```sh
-    git clone <repository_url>
-    cd <repository_name>
+    git clone (https://github.com/EddieDavison92/Scrape-BNF-Snomed-History-and-Combine/)
     ```
 
 2. Set up a virtual environment (optional but recommended):
