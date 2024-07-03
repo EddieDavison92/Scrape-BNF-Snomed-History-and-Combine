@@ -6,14 +6,13 @@ This project scrapes BNF Snomed mapping data from the NHS BSA website, converts 
 
 - `main.py`: The main script that performs the scraping, conversion, and combination tasks.
 - `convert_to_csv.vbs`: A VBScript that handles the conversion of .xlsx files to .csv format.
-- `bnf_snomed_mapping_data/`: Directory containing downloaded, processed, and output files.
+- `bnf_snomed_mapping_data/`: Generated directory structure containing downloaded, processed, and output files.
   - `zip_files/`: Contains the downloaded .zip files.
   - `xlsx_files/`: Contains the extracted .xlsx files.
   - `csv_files/`: Contains the converted .csv files.
   - `latest/`: Contains the latest .xlsx file based on the date in the filename.
   - `output/`: Contains the final combined .csv and .xlsx files.
 - `requirements.txt`: Lists the dependencies required to run the script.
-- `README.md`: This file.
 
 ## Prerequisites
 
